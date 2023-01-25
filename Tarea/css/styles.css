@@ -1,0 +1,48 @@
+*{
+    background-color: rgb(221, 228, 197);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(83, 110, 200);
+    border: 100px ;
+    text-align: center;
+    font-family: monospace;
+}
+
+h2{
+    color: deeppink;
+    font-family: monospace ;
+    font-weight: bold;
+}
+
+p{
+    text-align: justify;
+    font-family:monospace;
+}
+
+i{
+    background-color: rgb(220, 132, 179);
+    text-align: center;
+    padding: 10px;
+}
+
+.caja {
+    background-color: rgb(165, 240, 255);
+    display:run-in;
+    border: 1.5px solid rgb(22, 95, 111);
+    text-align: center;
+    padding: 15px;
+    color: rgb(0, 0, 0);
+    font-family:cursive;
+}
+
+a{
+    background-color: rgb(165, 240, 255) ;
+    color: black;
+}
+
+img{
+    width: 10em;
+    height: 10em;
+}
